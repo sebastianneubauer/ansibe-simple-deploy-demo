@@ -1,0 +1,6 @@
+ansible_connection: local
+ansible_python_interpreter: /usr/bin/env python
+ansible_host: 127.0.0.1
+
+endpoint: cloud_a.cloud.net
+access_key: 1234567890

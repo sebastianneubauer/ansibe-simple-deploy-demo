@@ -5,4 +5,4 @@
   tasks:
 
   - name: Hello World!
-    shell: echo "Hi! Tower is working."
+    shell: echo "Hi! provisioning DB {{ username }} {{ password }} to {{ endpoint }} with key {{ access_key }}"
